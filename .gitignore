@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Training outputs, checkpoints, and large artifacts
+data/outputclass5/
+*.h5
+*.hdf5
+*.ckpt
+runs/
