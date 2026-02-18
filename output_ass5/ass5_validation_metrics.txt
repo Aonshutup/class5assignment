@@ -1,0 +1,13 @@
+ASS5 VALIDATION METRICS
+=======================
+
+Threshold: 0.500000
+Accuracy: 0.895161
+AUC: 0.892786
+Precision: 0.775000
+Recall: 0.645833
+F1: 0.704545
+
+Confusion Matrix:
+382 18
+34 62
